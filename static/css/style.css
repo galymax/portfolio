@@ -1,0 +1,16 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: lightcoral;
+}
+
+#navigation {
+    height: 1000px;
+}
+
+.section {
+    height: 1000px;
+    padding-top: 10px;
+}
